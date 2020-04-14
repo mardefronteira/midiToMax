@@ -2,6 +2,8 @@
 
 The patch sends and receives note and pitch bend messages, transforming the MIDI notes and pitch bend variations into synthesized frequencies. There is also an ASDR envelope controlled by four sliders.
 
+To run it, have all files in one folder, and open midiToMax_synth.maxpat
+
 Video demo:
 
 [![thumbnail of youtube video](https://i.ytimg.com/vi/olPHsH9xOaQ/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD0G6gXaUj6U30A7AKJOTooJmOyaw)](https://www.youtube.com/watch?v=olPHsH9xOaQ)
